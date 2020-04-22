@@ -1,0 +1,103 @@
+[
+{
+"codice_regione": 1, 
+"nome_regione": "PIEMONTE",
+"metrica": 90
+},
+{
+"codice_regione": 2, 
+"nome_regione": "VALLE D'AOSTA",
+"metrica": 20
+},
+{
+"codice_regione": 3, 
+"nome_regione": "LOMBARDIA",
+"metrica": 86.2
+},
+{
+"codice_regione": 5, 
+"nome_regione": "VENETO",
+"metrica": 45.2
+},
+{
+"codice_regione": 6, 
+"nome_regione": "FRIULI VENEZIA GIULIA",
+"metrica": 10.3
+}, 
+{"codice_regione": 7, 
+"nome_regione": "LIGURIA",
+"metrica": 52.6
+},
+{"codice_regione": 8, 
+"nome_regione": "EMILIA-ROMAGNA",
+"metrica": 94.1
+},
+{"codice_regione": 9, 
+"nome_regione": "TOSCANA",
+"metrica": 74.3
+},
+{
+"codice_regione": 10, 
+"nome_regione": "UMBRIA",
+"metrica": 16.2
+},
+{
+"codice_regione": 11, 
+"nome_regione": "MARCHE",
+"metrica": 43.2
+},
+{
+"codice_regione": 12, 
+"nome_regione": "LAZIO",
+"metrica": 63.1
+}, 
+{
+"codice_regione": 13, 
+"nome_regione": "ABRUZZO",
+"metrica": 86.1
+},
+{
+"codice_regione": 14, 
+"nome_regione": "MOLISE",
+"metrica": 4.6
+},
+{
+"codice_regione": 15, 
+"nome_regione": "CAMPANIA",
+"metrica": 12.5
+},
+{
+"codice_regione": 16, 
+"nome_regione": "PUGLIA",
+"metrica": 22
+},
+{
+"codice_regione": 17, 
+"nome_regione": "BASILICATA",
+"metrica": 36
+},
+{
+"codice_regione": 18, 
+"nome_regione": "CALABRIA",
+"metrica": 18
+},
+{
+"codice_regione": 19, 
+"nome_regione": "SICILIA",
+"metrica": 64.3
+},
+{
+"codice_regione": 20, 
+"nome_regione": "SARDEGNA",
+"metrica": 22.3
+},
+{
+"codice_regione": 21, 
+"nome_regione": "BOLZANO",
+"metrica": 14.6
+},
+{
+"codice_regione": 22, 
+"nome_regione": "TRENTO",
+"metrica": 15.7
+}]
